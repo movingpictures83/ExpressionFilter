@@ -1,0 +1,2 @@
+Prefix plugins/ExpressionFilter/example/
+Plugin ExpressionFilter inputfile parameters.txt outputfile filtered.rds
